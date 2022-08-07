@@ -1,3 +1,9 @@
 
 
 在多年技术工作中，个人形成的工作习惯和团队协作制度。
+
+
+1. [[file:seminar.org][内部培训，技术和管理相关内容]]
+2. [[file:cultural.org][文化建设，制度和原则]]
+3. [[file:project-management.org][项目管理，制度和经验]]
+4. [[file:teamwork.org][团队协作，制度和经验]]
